@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="VentanaVerTareas">
+  <grid id="27dc6" binding="PanelVerTareas" layout-manager="GridLayoutManager" row-count="7" column-count="4" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="560" height="409"/>
+    </constraints>
+    <properties>
+      <background color="-2185990"/>
+      <foreground color="-13618894"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="d2904" class="javax.swing.JLabel" binding="tarea1Desc">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="-"/>
+        </properties>
+      </component>
+      <component id="fb2bc" class="javax.swing.JLabel" binding="tarea1Nombre">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="-"/>
+        </properties>
+      </component>
+      <component id="d70de" class="javax.swing.JLabel" binding="tarea2Nombre">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="-"/>
+        </properties>
+      </component>
+      <component id="e40f1" class="javax.swing.JLabel" binding="tarea2Label">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="Tarea 2"/>
+        </properties>
+      </component>
+      <component id="cd2c7" class="javax.swing.JLabel" binding="tarea2Desc">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="-"/>
+        </properties>
+      </component>
+      <component id="6ef" class="javax.swing.JLabel" binding="tarea3Nombre">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="-"/>
+        </properties>
+      </component>
+      <component id="a1217" class="javax.swing.JLabel" binding="tarea3Desc">
+        <constraints>
+          <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="-"/>
+        </properties>
+      </component>
+      <component id="dce52" class="javax.swing.JLabel" binding="tarea3Label">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="Tarea 3"/>
+        </properties>
+      </component>
+      <component id="cd11c" class="javax.swing.JLabel" binding="tarea4Nombre">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="-"/>
+        </properties>
+      </component>
+      <component id="be9f4" class="javax.swing.JLabel" binding="tarea4Desc">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="-"/>
+        </properties>
+      </component>
+      <component id="7d95f" class="javax.swing.JLabel" binding="tarea4Label">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="Tarea 4"/>
+        </properties>
+      </component>
+      <component id="ad846" class="javax.swing.JLabel" binding="tarea5Nombre">
+        <constraints>
+          <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="-"/>
+        </properties>
+      </component>
+      <component id="bf99" class="javax.swing.JLabel" binding="tarea5Desc">
+        <constraints>
+          <grid row="5" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="-"/>
+        </properties>
+      </component>
+      <component id="ee603" class="javax.swing.JLabel" binding="tarea5Label">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="Tarea 5"/>
+        </properties>
+      </component>
+      <component id="999cb" class="javax.swing.JLabel" binding="tarea1Label">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="Tarea 1"/>
+        </properties>
+      </component>
+      <component id="6d1d0" class="javax.swing.JButton" binding="editarT1Button">
+        <constraints>
+          <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Editar"/>
+        </properties>
+      </component>
+      <component id="a6697" class="javax.swing.JButton" binding="editarT2Button">
+        <constraints>
+          <grid row="2" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Editar"/>
+        </properties>
+      </component>
+      <component id="267d7" class="javax.swing.JButton" binding="editarT3Button">
+        <constraints>
+          <grid row="3" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Editar"/>
+        </properties>
+      </component>
+      <component id="fb400" class="javax.swing.JButton" binding="editarT4Button">
+        <constraints>
+          <grid row="4" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Editar"/>
+        </properties>
+      </component>
+      <component id="de15a" class="javax.swing.JButton" binding="volverButton">
+        <constraints>
+          <grid row="6" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Volver"/>
+        </properties>
+      </component>
+      <component id="31a85" class="javax.swing.JButton" binding="editarT5Button">
+        <constraints>
+          <grid row="5" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Editar"/>
+        </properties>
+      </component>
+      <component id="791f1" class="javax.swing.JLabel" binding="tituloLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="Tareas"/>
+        </properties>
+      </component>
+      <component id="5d55b" class="javax.swing.JLabel" binding="nombreTLabel">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="Nombre"/>
+        </properties>
+      </component>
+      <component id="8a14e" class="javax.swing.JLabel" binding="descripcionTLabel">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-13618894"/>
+          <text value="Descripcion"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
